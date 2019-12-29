@@ -1,8 +1,8 @@
 
 # songs
 
-Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/walk_in_your_shoes/walk_in_your_shoes.gp) | 
-[midi](https://github.com/chief/music/blob/master/walk_in_your_shoes/walk_in_your_shoes.mp3)
+Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/walk_in_your_shoes/walk_in_your_shoes.gp?raw=true) | 
+[midi](https://github.com/chief/music/blob/master/walk_in_your_shoes/walk_in_your_shoes.mp3?raw=true)
 
 # license
 
