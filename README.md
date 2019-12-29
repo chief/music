@@ -1,6 +1,6 @@
 
-# music
-Songs or riffs I write, mostly using GuitarPro 
+# songs
+
 
 # license
 
