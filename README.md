@@ -1,10 +1,10 @@
 
-# songs
+## songs
 
 Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/songs/walk_in_your_shoes/walk_in_your_shoes.gp?raw=true) | 
 [midi](https://github.com/chief/music/blob/master/songs/walk_in_your_shoes/walk_in_your_shoes.mp3?raw=true)
 
-# riffs
+## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
 [midi](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.mp3?raw=true)
