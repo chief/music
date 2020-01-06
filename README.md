@@ -2,7 +2,7 @@
 ## songs
 
 Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/songs/walk_in_your_shoes/walk_in_your_shoes.gp?raw=true) | 
-[midi](https://github.com/chief/music/blob/master/songs/walk_in_your_shoes/walk_in_your_shoes.mp3?raw=true)
+[midi](https://soundcloud.com/user-796353030-649878200/walk-in-your-shoes)
 
 Kathrin [guitar-pro](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.gp?raw=true) | [midi](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.mp3?raw=true)
 
