@@ -6,6 +6,10 @@ Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/songs
 
 Kathrin [guitar-pro](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.gp?raw=true) | [midi](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.mp3?raw=true)
 
+
+Apalo [guitar-pro](https://github.com/chief/music/blob/master/songs/apalo/Apalo.gp) | [midi](https://github.com/chief/music/blob/master/songs/apalo/Apalo.mp3)
+
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
