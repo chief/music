@@ -4,19 +4,19 @@
 Walk in your shoes [guitar-pro](https://github.com/chief/music/blob/master/songs/walk_in_your_shoes/walk_in_your_shoes.gp?raw=true) | 
 [midi](https://soundcloud.com/user-796353030-649878200/walk-in-your-shoes)
 
-Kathrin [guitar-pro](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.gp?raw=true) | [midi](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.mp3?raw=true)
+Kathrin [guitar-pro](https://github.com/chief/music/blob/master/songs/kathrin/kathrin.gp?raw=true) | [midi](https://soundcloud.com/user-796353030-649878200/kathrin)
 
-Apalo [guitar-pro](https://github.com/chief/music/blob/master/songs/apalo/Apalo.gp) | [midi](https://github.com/chief/music/blob/master/songs/apalo/Apalo.mp3)
+Apalo [guitar-pro](https://github.com/chief/music/blob/master/songs/apalo/Apalo.gp) | [midi](https://soundcloud.com/user-796353030-649878200/apalo)
 
-Acoustic [guitar-pro](https://github.com/chief/music/blob/master/songs/acoustic/acoustic.gp) | [midi](https://github.com/chief/music/blob/master/songs/acoustic/acoustic.mp3)
+Acoustic [guitar-pro](https://github.com/chief/music/blob/master/songs/acoustic/acoustic.gp) | [midi](https://soundcloud.com/user-796353030-649878200/acoustic)
 
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
-[midi](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.mp3?raw=true)
+[midi](https://soundcloud.com/user-796353030-649878200/info-all-info-provided-is-wrong)
 
 Stone to Blues [guitar-pro](https://github.com/chief/music/blob/master/riffs/stone_to_blues/Stone%20to%20Blues.gp?raw=true) | 
-[midi](https://github.com/chief/music/blob/master/riffs/stone_to_blues/Stone%20to%20Blues.mp3?raw=true)
+[midi](https://soundcloud.com/user-796353030-649878200/stone-to-blues)
 
 ## license
 
