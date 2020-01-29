@@ -12,6 +12,8 @@ Acoustic [guitar-pro](https://github.com/chief/music/blob/master/songs/acoustic/
 
 Chief Blues [guitar-pro](https://github.com/chief/music/blob/master/songs/chief_blues/Chief%20Blues.gp) | [midi](https://soundcloud.com/user-796353030-649878200/chief-blues)
 
+Jo Bless Greece [guitar-pro](https://github.com/chief/music/blob/master/songs/jo_bless_greece/jo-bless%20greece.gp) | [midi](https://soundcloud.com/user-796353030-649878200/jo-bless-greece)
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
