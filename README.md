@@ -18,6 +18,8 @@ Mat [guitar-pro](https://github.com/chief/music/blob/master/songs/mat/Mat.gp) | 
 
 Point [guitar-pro](https://github.com/chief/music/blob/master/songs/point/point.gp) | [midi](https://soundcloud.com/user-796353030-649878200/point)
 
+Song in A major [guitar-pro](https://github.com/chief/music/blob/master/songs/song_in_a_major/song%20in%20A%20major.gp) | [midi](https://soundcloud.com/user-796353030-649878200/song-in-a-major)
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
