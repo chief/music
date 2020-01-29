@@ -16,6 +16,8 @@ Jo Bless Greece [guitar-pro](https://github.com/chief/music/blob/master/songs/jo
 
 Mat [guitar-pro](https://github.com/chief/music/blob/master/songs/mat/Mat.gp) | [midi](https://soundcloud.com/user-796353030-649878200/mat)
 
+Point [guitar-pro](https://github.com/chief/music/blob/master/songs/point/point.gp) | [midi](https://soundcloud.com/user-796353030-649878200/point)
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
