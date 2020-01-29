@@ -10,6 +10,8 @@ Apalo [guitar-pro](https://github.com/chief/music/blob/master/songs/apalo/Apalo.
 
 Acoustic [guitar-pro](https://github.com/chief/music/blob/master/songs/acoustic/acoustic.gp) | [midi](https://soundcloud.com/user-796353030-649878200/acoustic)
 
+Chief Blues [guitar-pro](https://github.com/chief/music/blob/master/songs/chief_blues/Chief%20Blues.gp) | [midi](https://soundcloud.com/user-796353030-649878200/chief-blues)
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
