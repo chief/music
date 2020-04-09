@@ -22,6 +22,9 @@ Song in A major [guitar-pro](https://github.com/chief/music/blob/master/songs/so
 
 Song in A major 2 [guitar-pro](https://github.com/chief/music/blob/master/songs/song_in_a_major_2/song%20in%20A%20major%202.gp) | [midi](https://soundcloud.com/user-796353030-649878200/song-in-a-major-2)
 
+Walking on the sand [guitar-pro](https://github.com/chief/music/blob/master/songs/walking_on_the_sand/walking%20on%20the%20sand.gp) | [midi](https://soundcloud.com/user-796353030-649878200/walking-on-the-sand)
+
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
