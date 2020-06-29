@@ -10,6 +10,21 @@ Apalo [guitar-pro](https://github.com/chief/music/blob/master/songs/apalo/Apalo.
 
 Acoustic [guitar-pro](https://github.com/chief/music/blob/master/songs/acoustic/acoustic.gp) | [midi](https://soundcloud.com/user-796353030-649878200/acoustic)
 
+Chief Blues [guitar-pro](https://github.com/chief/music/blob/master/songs/chief_blues/Chief%20Blues.gp) | [midi](https://soundcloud.com/user-796353030-649878200/chief-blues)
+
+Jo Bless Greece [guitar-pro](https://github.com/chief/music/blob/master/songs/jo_bless_greece/jo-bless%20greece.gp) | [midi](https://soundcloud.com/user-796353030-649878200/jo-bless-greece)
+
+Mat [guitar-pro](https://github.com/chief/music/blob/master/songs/mat/Mat.gp) | [midi](https://soundcloud.com/user-796353030-649878200/mat)
+
+Point [guitar-pro](https://github.com/chief/music/blob/master/songs/point/point.gp) | [midi](https://soundcloud.com/user-796353030-649878200/point)
+
+Song in A major [guitar-pro](https://github.com/chief/music/blob/master/songs/song_in_a_major/song%20in%20A%20major.gp) | [midi](https://soundcloud.com/user-796353030-649878200/song-in-a-major)
+
+Song in A major 2 [guitar-pro](https://github.com/chief/music/blob/master/songs/song_in_a_major_2/song%20in%20A%20major%202.gp) | [midi](https://soundcloud.com/user-796353030-649878200/song-in-a-major-2)
+
+Walking on the sand [guitar-pro](https://github.com/chief/music/blob/master/songs/walking_on_the_sand/walking%20on%20the%20sand.gp) | [midi](https://soundcloud.com/user-796353030-649878200/walking-on-the-sand)
+
+
 ## riffs
 
 Info: all info provided is wrong [guitar-pro](https://github.com/chief/music/blob/master/riffs/all_info_provided_is_wrong/all_info_provided_is_wrong.gp?raw=true) |
